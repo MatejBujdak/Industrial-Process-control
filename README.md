@@ -56,4 +56,4 @@ The project demonstrates architecture and typical industrial features: Auto/Manu
 
 ## Project files
 Because TIA/WinCC projects can be large, the repository focuses on documentation + screenshots + code samples.
-If you need the full project archive, contact me or see the release (if available).
+If you need the full project archive, contact me.
